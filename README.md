@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Barrios</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biohazard86&label=Profile%20views&color=0e75b6&style=flat" alt="biohazard86" /> </p>
 
-- 👨‍🎓 I’m currently studying [Computer Science at Universidad de Salamanca](www.usal.es/grado-en-ingenieria-informatica-en-sistemas-de-informacion)
+- 👨‍🎓 I’m currently studying [Computer Science at Universidad de Salamanca](https://usal.es/grado-en-ingenieria-informatica-en-sistemas-de-informacion)
 
 - ⚙️ I was in an internship **during the 2020/2021 academic year at the company Creabiz**
 
@@ -9,7 +9,7 @@
 
 - 🗣️ Languages **Spanish (native) & English (profesional)**
 
-- 👨‍💻 All of my projects are available at [github.com/Biohazard86](https://www.google.com)
+- 👨‍💻 All of my projects are available at [github.com/Biohazard86](https://github.com/Biohazard86)
 
 - 🤔 I’m interested in **Green Technologie, MotorSport, Blockchain & IoT**
 
