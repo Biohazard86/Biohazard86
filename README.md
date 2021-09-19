@@ -9,7 +9,7 @@
 
 - 🗣️ Languages **Spanish (native) & English (profesional)**
 
-- 👨‍💻 All of my projects are available at [github.com/Biohazard86](https://github.com/Biohazard86)
+- 👨‍💻 All of my projects are available at [github.com/Biohazard86](https://github.com/Biohazard86?tab=repositories)
 
 - 🤔 I’m interested in **Green Technologie, MotorSport, Blockchain & IoT**
 
