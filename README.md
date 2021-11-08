@@ -1,4 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 <h1 align="center">Hi 👋, I'm David Barrios</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biohazard86&label=Profile%20views&color=0e75b6&style=flat" alt="biohazard86" /> </p>
@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/rScm3uXP9J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rScm3uXP9J" height="30" width="40" /></a>
- 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="david-barrios-portales-86a83b189" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/david-barrios-portales-86a83b189?trk=profile-badge">David Barrios Portales</a></div>
+<a href="https://www.linkedin.com/in/david-barrios-portales-86a83b189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="David Barrios Portales" height="30" width="40" /></a> 
+>
               
 </p>
 
