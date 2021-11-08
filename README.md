@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/rScm3uXP9J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rScm3uXP9J" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/david-barrios-portales-86a83b189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="David Barrios Portales" height="30" width="40" /></a> 
->
+
               
 </p>
 
