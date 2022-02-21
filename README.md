@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **davidbarrios@usal.es**
 
-- 🤝 I’m looking for an **internship to start on March 2022**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
