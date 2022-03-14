@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Biohazard86](https://github.com/Biohazard86?tab=repositories)
 
-- 🤔 I’m interested in **Green Technologie, MotorSport, Blockchain & IoT**
+- 🤔 I’m interested in **embedded systems , MotorSport, MCUs & IoT**
 
 - 📫 How to reach me **davidbarrios@usal.es**
 
