@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm David Barrios</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biohazard86&label=Profile%20views&color=0e75b6&style=flat" alt="biohazard86" /> </p>
 
-- 👨‍🎓 I studied [Computer Science at Universidad de Salamanca](https://usal.es/grado-en-ingenieria-informatica-en-sistemas-de-informacion)
+- 👨‍🎓 I studied [Computer Science at Universidad de Salamanca](https://usal.es/grado-en-ingenieria-informatica-en-sistemas-de-informacion) and working as a researcher there.
 
 - ⚙️ I was in an internship **during the 2020/2021 academic year at the company Creabiz**
 
